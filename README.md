@@ -43,7 +43,7 @@ Embedding the ANE:
 
 # Requirements
 * Android API 19+
-* iOS SDK 8.0+
+* iOS SDK 10.0+
 * AIR SDK 31.0+
 
 # Commercial Version
